@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:111111,100:1a1a1a&text=Daniyal%20Jamil&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20Systems%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&descColor=888888" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:111111,100:1a1a1a&text=Daniyal%20Jamil&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%26%20Web%20Enthusiast%20%7C%20Building%20Secure%2C%20AI-Driven%20Systems&descAlignY=58&descSize=18&descColor=888888" />
 
 <br/>
 
@@ -26,7 +26,7 @@
     <td align="left" width="65%" style="border: none;">
       <h2><img src="https://api.iconify.design/lucide/terminal.svg?color=white" width="28" align="top" /> Daniyal Jamil</h2>
       <p style="font-size: 16px; line-height: 1.6;">
-        <b>AI Systems Engineer & Cybersecurity Developer</b> based in Lahore, Pakistan.<br>
+        <b>Cybersecurity & Web Enthusiast</b> based in Lahore, Pakistan.<br>
         Currently a Computer Science undergraduate at Bahria University and Technical Lead for the OWASP Chapter. My focus lies at the intersection of <b>multi-agent systems, network security, and intelligent automation</b>. 
       </p>
       <p style="font-size: 16px; line-height: 1.8;">
@@ -37,8 +37,8 @@
     </td>
     <td align="center" width="35%" style="border: none;">
       <a href="https://github.com/arkk200/record-rotate">
-        <!-- Change the 'image' parameter URL to your own album art or profile logo -->
-        <img src="https://record-rotate-github-readme.vercel.app/api?image=https://i.imgur.com/your-album-art.png&title=Darknet%20Diaries&artist=Currently%20Listening" width="180" />
+        <!-- The spinning record animation is right here -->
+        <img src="https://record-rotate-github-readme.vercel.app/api?image=https://upload.wikimedia.org/wikipedia/commons/c/c5/Square_vinyl_record.jpg&title=Coding%20Vibes&artist=Daniyal%20Jamil" width="180" />
       </a>
     </td>
   </tr>
@@ -59,10 +59,13 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot">
-        <img src="INSERT_INBOX_COPILOT_IMAGE_LINK_HERE" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/0a0a0a/ffffff.png?text=Inbox+Copilot" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot" style="font-size: 18px; text-decoration: none; color: inherit;"><b>INBOX COPILOT</b></a>
+      <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot" style="font-size: 18px; text-decoration: none; color: inherit;">
+        <img src="https://api.iconify.design/lucide/mail.svg?color=white" width="20" align="top" /> <b>INBOX COPILOT</b>
+      </a>
       <p>AI-powered email intelligence pipeline.</p>
       <details align="left">
         <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
@@ -76,10 +79,13 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/NetWatch">
-        <img src="INSERT_NETWATCH_IMAGE_LINK_HERE" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/111111/ffffff.png?text=NetWatch" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <a href="https://github.com/Daniyal-Jamil-2005/NetWatch" style="font-size: 18px; text-decoration: none; color: inherit;"><b>NETWATCH</b></a>
+      <a href="https://github.com/Daniyal-Jamil-2005/NetWatch" style="font-size: 18px; text-decoration: none; color: inherit;">
+        <img src="https://api.iconify.design/lucide/radar.svg?color=white" width="20" align="top" /> <b>NETWATCH</b>
+      </a>
       <p>Advanced network intelligence platform.</p>
       <details align="left">
         <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
@@ -97,10 +103,13 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/CIRO">
-        <img src="INSERT_CIRO_IMAGE_LINK_HERE" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/161616/ffffff.png?text=CIRO" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <a href="https://github.com/Daniyal-Jamil-2005/CIRO" style="font-size: 18px; text-decoration: none; color: inherit;"><b>CIRO</b></a>
+      <a href="https://github.com/Daniyal-Jamil-2005/CIRO" style="font-size: 18px; text-decoration: none; color: inherit;">
+        <img src="https://api.iconify.design/lucide/map-pin.svg?color=white" width="20" align="top" /> <b>CIRO</b>
+      </a>
       <p>Urban disaster detection multi-agent AI.</p>
       <details align="left">
         <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
@@ -114,10 +123,13 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/SkillSync">
-        <img src="INSERT_SKILLSYNC_IMAGE_LINK_HERE" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/1c1c1c/ffffff.png?text=SkillSync" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <a href="https://github.com/Daniyal-Jamil-2005/SkillSync" style="font-size: 18px; text-decoration: none; color: inherit;"><b>SKILLSYNC</b></a>
+      <a href="https://github.com/Daniyal-Jamil-2005/SkillSync" style="font-size: 18px; text-decoration: none; color: inherit;">
+        <img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="20" align="top" /> <b>SKILLSYNC</b>
+      </a>
       <p>Agentic AI workforce management.</p>
       <details align="left">
         <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
@@ -136,19 +148,19 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="26" align="top" /> Tech Arsenal
+## <img src="https://api.iconify.design/lucide/layers.svg?color=white" width="26" align="top" /> Tech Arsenal
 
 <br/>
 
 <div align="center">
 
-#### Languages
+#### <img src="https://api.iconify.design/lucide/code-2.svg?color=white" width="20" align="top" /> Languages
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,dart,html,css&theme=dark" />
 
-#### Frameworks & Tools
+#### <img src="https://api.iconify.design/lucide/box.svg?color=white" width="20" align="top" /> Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,flutter,firebase,mongodb,mysql&theme=dark" />
 
-#### AI, Security & Infra
+#### <img src="https://api.iconify.design/lucide/cloud.svg?color=white" width="20" align="top" /> AI, Security & Infra
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,gcp,aws,vscode&theme=dark" />
 
 </div>
@@ -211,7 +223,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/target.svg?color=white" width="26" align="top" /> Current Focus
+## <img src="https://api.iconify.design/lucide/crosshair.svg?color=white" width="26" align="top" /> Current Focus
 
 <br/>
 
@@ -219,11 +231,11 @@
 
 | Domain | Active Work |
 |---|---|
-| **AI Systems** | Multi-agent pipelines with real-time orchestration |
-| **Inbox Intelligence** | LLM-powered email extraction and scoring |
-| **Cybersecurity** | Network monitoring, SOC analysis, DevSecOps |
-| **Cloud & Infra** | GCP + AWS multi-region deployments |
-| **Research** | Agentic AI workflows and autonomous agents |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=white" width="16" align="center" /> **AI Systems** | Multi-agent pipelines with real-time orchestration |
+| <img src="https://api.iconify.design/lucide/mail.svg?color=white" width="16" align="center" /> **Inbox Intelligence** | LLM-powered email extraction and scoring |
+| <img src="https://api.iconify.design/lucide/lock.svg?color=white" width="16" align="center" /> **Cybersecurity** | Network monitoring, SOC analysis, DevSecOps |
+| <img src="https://api.iconify.design/lucide/cloud.svg?color=white" width="16" align="center" /> **Cloud & Infra** | GCP + AWS multi-region deployments |
+| <img src="https://api.iconify.design/lucide/flask-conical.svg?color=white" width="16" align="center" /> **Research** | Agentic AI workflows and autonomous agents |
 
 </div>
 
