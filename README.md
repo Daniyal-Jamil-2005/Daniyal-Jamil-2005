@@ -19,92 +19,124 @@
 
 <br/>
 
-## About
+<div align="center">
 
-```yaml
-name       : Daniyal Jamil
-location   : Lahore, Pakistan
-role       : AI Systems Engineer · Cybersecurity Developer
-focus      : Multi-agent systems, network security, intelligent automation
-education  : BS Computer Science — Bahria University Lahore
-pursuing   : SOC Analyst · DevSecOps · CompTIA Security+
-currently  : Post-hackathon polish on CIRO + cybersecurity internship hunt
-```
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="left" width="65%" style="border: none;">
+      <h2><img src="https://api.iconify.design/lucide/terminal.svg?color=white" width="28" align="top" /> Daniyal Jamil</h2>
+      <p style="font-size: 16px; line-height: 1.6;">
+        <b>AI Systems Engineer & Cybersecurity Developer</b> based in Lahore, Pakistan.<br>
+        Currently a Computer Science undergraduate at Bahria University and Technical Lead for the OWASP Chapter. My focus lies at the intersection of <b>multi-agent systems, network security, and intelligent automation</b>. 
+      </p>
+      <p style="font-size: 16px; line-height: 1.8;">
+        <img src="https://api.iconify.design/lucide/crosshair.svg?color=%23888888" width="18" align="top" /> <b>Current Target:</b> SOC Analyst & DevSecOps Roles<br>
+        <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23888888" width="18" align="top" /> <b>Certifications:</b> Google Cybersecurity (Active) | CompTIA Security+ (Pursuing)<br>
+        <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23888888" width="18" align="top" /> <b>Currently:</b> Post-hackathon polish on CIRO + Hunting for a cybersecurity internship.
+      </p>
+    </td>
+    <td align="center" width="35%" style="border: none;">
+      <a href="https://github.com/arkk200/record-rotate">
+        <!-- Change the 'image' parameter URL to your own album art or profile logo -->
+        <img src="https://record-rotate-github-readme.vercel.app/api?image=https://i.imgur.com/your-album-art.png&title=Darknet%20Diaries&artist=Currently%20Listening" width="180" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
 ---
 
-## Featured Projects
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=white" width="26" align="top" /> Featured Projects
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Inbox Copilot
-
-> AI-powered email intelligence pipeline for automated opportunity extraction and ranking.
-
-Combines TF-IDF + Calibrated Logistic Regression for classification, Cerebras LLM (Llama-3.3-70B) for structured extraction, and Gradient Boosting for scoring. Skill graph backed by Neo4j.
-
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-111111?style=flat-square&logo=openai&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-161616?style=flat-square&logo=neo4j&logoColor=white)
-![React](https://img.shields.io/badge/React-1c1c1c?style=flat-square&logo=react&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### NetWatch
-
-> Advanced network intelligence platform for device mapping, OS fingerprinting, and unauthorized access detection.
-
-Seven-layer Flutter/Kotlin architecture with Riverpod, ARP/mDNS scanning, and real-time alerting. Deployed on Huawei AppGallery, APKPure, and Uptodown.
-
-![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-161616?style=flat-square&logo=wireshark&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### CIRO
-
-> Crisis Intelligence & Response Orchestrator — real-time multi-agent AI platform for urban disaster detection.
-
-Built on Vertex AI, Cloud Workflows, Flutter, and Google Maps. GCP-deployed in `asia-south1`. Finalist — AISeekho2026 Antigravity Hackathon (Google for Developers × Telenor Pakistan × MoITT).
-
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0a0a0a?style=flat-square&logo=googlecloud&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-161616?style=flat-square&logo=googlecloud&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### SkillSync
-
-> Agentic AI workforce management platform — AWS competition semi-finalist.
-
-Three-layer architecture: skill verification via SageMaker Sentence Transformers, autonomous task allocation via AWS Bedrock, and an AI career coaching layer. Built with Nova Forge/Pro.
-
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-0a0a0a?style=flat-square&logo=amazonaws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-111111?style=flat-square&logo=amazonaws&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-161616?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <!-- ROW 1 -->
+  <tr>
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot">
+        <img src="INSERT_INBOX_COPILOT_IMAGE_LINK_HERE" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot" style="font-size: 18px; text-decoration: none; color: inherit;"><b>INBOX COPILOT</b></a>
+      <p>AI-powered email intelligence pipeline.</p>
+      <details align="left">
+        <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Core:</b> Python, React, Neo4j</li>
+          <li><b>AI:</b> Cerebras (Llama-3.3-70B)</li>
+          <li><b>Method:</b> TF-IDF + Calibrated Logistic Regression, Gradient Boosting for scoring.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/Daniyal-Jamil-2005/NetWatch">
+        <img src="INSERT_NETWATCH_IMAGE_LINK_HERE" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Daniyal-Jamil-2005/NetWatch" style="font-size: 18px; text-decoration: none; color: inherit;"><b>NETWATCH</b></a>
+      <p>Advanced network intelligence platform.</p>
+      <details align="left">
+        <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Core:</b> Flutter, Kotlin</li>
+          <li><b>Architecture:</b> Seven-layer architecture with Riverpod.</li>
+          <li><b>Features:</b> ARP/mDNS scanning, OS fingerprinting, real-time alerting.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  
+  <!-- ROW 2 -->
+  <tr>
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/Daniyal-Jamil-2005/CIRO">
+        <img src="INSERT_CIRO_IMAGE_LINK_HERE" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Daniyal-Jamil-2005/CIRO" style="font-size: 18px; text-decoration: none; color: inherit;"><b>CIRO</b></a>
+      <p>Urban disaster detection multi-agent AI.</p>
+      <details align="left">
+        <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Core:</b> Flutter, Google Maps</li>
+          <li><b>Cloud:</b> GCP (asia-south1), Cloud Workflows</li>
+          <li><b>AI:</b> Vertex AI</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/Daniyal-Jamil-2005/SkillSync">
+        <img src="INSERT_SKILLSYNC_IMAGE_LINK_HERE" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Daniyal-Jamil-2005/SkillSync" style="font-size: 18px; text-decoration: none; color: inherit;"><b>SKILLSYNC</b></a>
+      <p>Agentic AI workforce management.</p>
+      <details align="left">
+        <summary><img src="https://api.iconify.design/lucide/wrench.svg?color=%23888888" width="16" align="top" /> <b>View Tech Stack & Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Core:</b> Nova Forge/Pro</li>
+          <li><b>Cloud:</b> AWS Bedrock, SageMaker</li>
+          <li><b>Features:</b> Skill verification, autonomous task allocation, AI coaching.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
 ---
 
-## Tech Arsenal
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="26" align="top" /> Tech Arsenal
 
 <br/>
 
@@ -125,7 +157,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## GitHub Analytics
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=white" width="26" align="top" /> GitHub Analytics
 
 <br/>
 
@@ -147,7 +179,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## Contribution Activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=white" width="26" align="top" /> Contribution Activity
 
 <br/>
 
@@ -161,7 +193,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## Contribution Snake
+## <img src="https://api.iconify.design/lucide/git-commit.svg?color=white" width="26" align="top" /> Contribution Grid
 
 <br/>
 
@@ -179,7 +211,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## Current Focus
+## <img src="https://api.iconify.design/lucide/target.svg?color=white" width="26" align="top" /> Current Focus
 
 <br/>
 
@@ -187,11 +219,11 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 | Domain | Active Work |
 |---|---|
-| AI Systems | Multi-agent pipelines with real-time orchestration |
-| Inbox Intelligence | LLM-powered email extraction and scoring |
-| Cybersecurity | Network monitoring, SOC analysis, DevSecOps |
-| Cloud & Infra | GCP + AWS multi-region deployments |
-| Research | Agentic AI workflows and autonomous agents |
+| **AI Systems** | Multi-agent pipelines with real-time orchestration |
+| **Inbox Intelligence** | LLM-powered email extraction and scoring |
+| **Cybersecurity** | Network monitoring, SOC analysis, DevSecOps |
+| **Cloud & Infra** | GCP + AWS multi-region deployments |
+| **Research** | Agentic AI workflows and autonomous agents |
 
 </div>
 
@@ -199,7 +231,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## Certifications & Competition Highlights
+## <img src="https://api.iconify.design/lucide/award.svg?color=white" width="26" align="top" /> Certifications & Competition Highlights
 
 <br/>
 
@@ -213,7 +245,7 @@ Three-layer architecture: skill verification via SageMaker Sentence Transformers
 
 ---
 
-## Connect
+## <img src="https://api.iconify.design/lucide/link.svg?color=white" width="26" align="top" /> Connect
 
 <br/>
 
