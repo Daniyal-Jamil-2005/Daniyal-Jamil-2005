@@ -26,13 +26,13 @@
     <td align="left" width="65%" style="border: none;">
       <h2><img src="https://api.iconify.design/lucide/terminal.svg?color=white" width="28" align="top" /> Daniyal Jamil</h2>
       <p style="font-size: 16px; line-height: 1.6;">
-        <b>AI Systems Engineer & Cybersecurity Developer</b> based in Lahore, Pakistan.<br>
+        <b>Cybersecurity & Web Enthusiast • AI Integration • DevSecOps </b> based in Lahore, Pakistan.<br>
         Currently a Computer Science undergraduate at Bahria University and Technical Lead for the OWASP Chapter. My focus lies at the intersection of <b>multi-agent systems, network security, and intelligent automation</b>. 
       </p>
       <p style="font-size: 16px; line-height: 1.8;">
-        <img src="https://api.iconify.design/lucide/crosshair.svg?color=%23888888" width="18" align="top" /> <b>Current Target:</b> SOC Analyst & DevSecOps Roles<br>
+        <img src="https://api.iconify.design/lucide/crosshair.svg?color=%23888888" width="18" align="top" /> <b>Current Target:</b> SOC Analyst, Junior Cyber security & DevSecOps Roles<br>
         <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23888888" width="18" align="top" /> <b>Certifications:</b> Google Cybersecurity (Active) | CompTIA Security+ (Pursuing)<br>
-        <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23888888" width="18" align="top" /> <b>Currently:</b> Post-hackathon polish on CIRO + Hunting for a cybersecurity internship.
+        <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23888888" width="18" align="top" /> <b>Currently:</b>Hunting for a cybersecurity, Cloud, Ai Engineer internship.
       </p>
     </td>
     <td align="center" width="35%" style="border: none;">
@@ -59,7 +59,8 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot">
-        <img src="INSERT_INBOX_COPILOT_IMAGE_LINK_HERE" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
+        <img src="<img width="1919" height="1122" alt="IInbox copilothero section" src="https://github.com/user-attachments/assets/74c0a928-3f1f-4c06-9db1-8678f4e6f99c" />
+" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot" style="font-size: 18px; text-decoration: none; color: inherit;"><b>INBOX COPILOT</b></a>
@@ -76,7 +77,8 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/NetWatch">
-        <img src="INSERT_NETWATCH_IMAGE_LINK_HERE" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
+        <img src="<img width="1470" height="980" alt="Netwatch logo" src="https://github.com/user-attachments/assets/8da5080c-c7e8-496b-b359-7b4b3f72d8d2" />
+" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/NetWatch" style="font-size: 18px; text-decoration: none; color: inherit;"><b>NETWATCH</b></a>
@@ -97,7 +99,8 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/CIRO">
-        <img src="INSERT_CIRO_IMAGE_LINK_HERE" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
+        <img src="<img width="720" height="1612" alt="map 3" src="https://github.com/user-attachments/assets/da4b62ff-afc1-432a-a68a-d1358d9a4cfd" />
+" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/CIRO" style="font-size: 18px; text-decoration: none; color: inherit;"><b>CIRO</b></a>
@@ -114,7 +117,8 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/SkillSync">
-        <img src="INSERT_SKILLSYNC_IMAGE_LINK_HERE" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
+        <img src="<img width="1908" height="1200" alt="Landing Page" src="https://github.com/user-attachments/assets/72132479-05a6-4688-8817-ddcf7820bfde" />
+" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/SkillSync" style="font-size: 18px; text-decoration: none; color: inherit;"><b>SKILLSYNC</b></a>
