@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:111111,100:1a1a1a&text=Daniyal%20Jamil&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20and%20Web%20Enthusiast%20%E2%80%A2%20Building%20Secure%20AI-Driven%20Systems&descAlignY=58&descSize=18&descColor=888888" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:111111,100:1a1a1a&text=Daniyal%20Jamil&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%26%20Web%20Enthusiast%20%7C%20Building%20Secure%2C%20AI-Driven%20Systems&descAlignY=58&descSize=18&descColor=888888" />
 
 <br/>
 
@@ -36,9 +36,9 @@
       </p>
     </td>
     <td align="center" width="35%" style="border: none;">
-      <!-- Spotify Currently Playing Widget with built-in offline fallback -->
-      <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatimo&show_offline=true&background_color=0a0a0a" alt="Currently Listening on Spotify" width="250" />
+      <a href="https://github.com/arkk200/record-rotate">
+        <!-- The spinning record animation is right here -->
+        <img src="https://record-rotate-github-readme.vercel.app/api?image=https://upload.wikimedia.org/wikipedia/commons/c/c5/Square_vinyl_record.jpg&title=Coding%20Vibes&artist=Daniyal%20Jamil" width="180" />
       </a>
     </td>
   </tr>
@@ -59,7 +59,8 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot">
-        <img src="INSERT_INBOX_COPILOT_IMAGE_LINK_HERE" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/0a0a0a/ffffff.png?text=Inbox+Copilot" alt="Inbox Copilot Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/Inbox-Copilot" style="font-size: 18px; text-decoration: none; color: inherit;">
@@ -78,7 +79,8 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/NetWatch">
-        <img src="INSERT_NETWATCH_IMAGE_LINK_HERE" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/111111/ffffff.png?text=NetWatch" alt="NetWatch Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/NetWatch" style="font-size: 18px; text-decoration: none; color: inherit;">
@@ -101,7 +103,8 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/CIRO">
-        <img src="INSERT_CIRO_IMAGE_LINK_HERE" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/161616/ffffff.png?text=CIRO" alt="CIRO Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/CIRO" style="font-size: 18px; text-decoration: none; color: inherit;">
@@ -120,7 +123,8 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Daniyal-Jamil-2005/SkillSync">
-        <img src="INSERT_SKILLSYNC_IMAGE_LINK_HERE" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
+        <!-- Replace this placehold.co link with your uploaded image URL -->
+        <img src="https://placehold.co/600x300/1c1c1c/ffffff.png?text=SkillSync" alt="SkillSync Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <br/><br/>
       <a href="https://github.com/Daniyal-Jamil-2005/SkillSync" style="font-size: 18px; text-decoration: none; color: inherit;">
