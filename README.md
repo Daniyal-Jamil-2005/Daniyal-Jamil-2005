@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Building+Intelligent+Systems+for+Security+%26+Automation;Multi-Agent+AI+%7C+DevSecOps+%7C+Full+Stack+Engineer;Turning+complex+problems+into+deployable+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Building+Intelligent+Systems+for+Security+%26+Automation;AI-Systems+%7C+DevSecOps+%7C+Web+Engineer;Turning+complex+problems+into+deployable+systems." />
 
 <br/><br/>
 
