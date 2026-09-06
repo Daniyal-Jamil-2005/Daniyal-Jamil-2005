@@ -35,7 +35,7 @@ My work spans **AWS** and **GCP**, orchestrated with **Kubernetes** and provisio
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -58,13 +58,26 @@ My work spans **AWS** and **GCP**, orchestrated with **Kubernetes** and provisio
 
 <br/>
 
-<div align="center">
-
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
-| ## 20+ <br/>personal projects shipped | ## AWS SAA <br/>Solutions Architect – Associate | ## 4+ <br/>years building & shipping | ## 6 <br/>certifications earned |
-
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h2>20+</h2>
+personal projects shipped
+</td>
+<td align="center" width="25%">
+<h2>AWS SAA</h2>
+Solutions Architect – Associate
+</td>
+<td align="center" width="25%">
+<h2>4+</h2>
+years building &amp; shipping
+</td>
+<td align="center" width="25%">
+<h2>6</h2>
+certifications earned
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -72,7 +85,7 @@ My work spans **AWS** and **GCP**, orchestrated with **Kubernetes** and provisio
 
 ## Toolchain
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -132,7 +145,7 @@ My work spans **AWS** and **GCP**, orchestrated with **Kubernetes** and provisio
 
 _Stats below are pulled live from GitHub, so they stay current with every commit._
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
